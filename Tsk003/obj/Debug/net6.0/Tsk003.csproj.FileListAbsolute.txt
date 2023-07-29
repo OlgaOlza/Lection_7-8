@@ -1,0 +1,15 @@
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\bin\Debug\net6.0\Tsk003.exe
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\bin\Debug\net6.0\Tsk003.deps.json
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\bin\Debug\net6.0\Tsk003.runtimeconfig.json
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\bin\Debug\net6.0\Tsk003.dll
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\bin\Debug\net6.0\Tsk003.pdb
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.csproj.AssemblyReference.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.AssemblyInfoInputs.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.AssemblyInfo.cs
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.csproj.CoreCompileInputs.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.dll
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\refint\Tsk003.dll
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.pdb
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\Tsk003.genruntimeconfig.cache
+C:\Users\Ольза\Desktop\GeekBrain\3. Знакомство с языками программирования (лекции) + семинары\_New_Lessons\Lection_7-8\Tsk003\obj\Debug\net6.0\ref\Tsk003.dll
